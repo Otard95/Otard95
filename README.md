@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Otard95's GitHub stats](https://github-readme-stats.vercel.app/api?username=Otard95&theme=solarized-dark&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otard95&theme=solarized-dark&hide_border=true&hide=C++,C#&langs_count=3)
+![Otard95's GitHub stats](https://github-readme-stats.vercel.app/api?username=Otard95&theme=solarized-dark&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otard95&theme=solarized-dark&hide_border=true&hide=C%2B%2B,C%23&langs_count=3)
