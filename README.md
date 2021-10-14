@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;justify-content: space-evenly">
   <img
     alt="Otard95's GitHub stats"
     style="height: 205px"
