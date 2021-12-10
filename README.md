@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img
     alt="Otard95's GitHub stats"
     style="height: 205px"
-    src="https://github-readme-stats.vercel.app/api?username=Otard95&theme=solarized-dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Otard95&theme=solarized-dark&hide_border=true&count_private=true&show_icons=true"
   >
   <img
     alt="Top Langs"
