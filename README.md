@@ -23,6 +23,6 @@ Here are some ideas to get you started:
   <img
     alt="Top Langs"
     style="margin: 0 auto"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otard95&theme=solarized-dark&hide=C%2B%2B,C%23&langs_count=3&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otard95&theme=solarized-dark&hide=css,html&langs_count=3&hide_border=true&exclude_repo=tools-exam-2,wpf-canvas-testing,Kolonial-API-Wrapper,losningsforslag-uke5,Smidig-Kolonial,Cpp-Home-Exam,GameAI-Assignment1,Game-AI-Assignment2,Cpp-Course,SoftwareDesignExam17H,SoftwareDesignRefactoring,Unity-Portals,Rainbow-Code,Eksamen,FlowerPower"
   >
 </div>
