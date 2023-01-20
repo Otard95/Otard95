@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+> github-readme-stats current has some issues looking into setting up a server of my own
+
 <div style="display: flex; flex-direction: row;justify-content: space-evenly">
   <img
     alt="Otard95's GitHub stats"
