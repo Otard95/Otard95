@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img
     alt="Otard95's GitHub stats"
     style="height: 205px"
-    src="https://github-readme-stats.core-lab.net/api?username=Otard95&theme=solarized-dark&hide_border=true&count_private=true&show_icons=true"
+    src="https://github-readme-stats.core-lab.net/api?username=Otard95&theme=solarized-dark&hide_border=true&count_private=true&show_icons=true&hide=stars"
   >
   <img
     alt="Top Langs"
